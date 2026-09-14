@@ -4,11 +4,11 @@
 
 <div class="n6owBd awi2gc" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 12px 0px 16px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-hveid="CAAIDBAA" data-processed="true" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 12px 0px 16px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Perfect for tanks needing to spot loose mobs instantly, healers watching who is taking damage, or PvP players tracking enemy focus!</div>
 
-undefined
+
 
 ***
 
-undefined
+
 
 <div class="otQkpb" style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" role="heading" aria-level="3" data-animation-nesting="" data-sfc-cp="" data-wiz-attrbind="aria-level=CFp5hf_1i/fLk2Md" data-sfc-root="ep" data-complete="true" data-processed="true" data-sae="" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">⚠️ IMPORTANT: Dependency Required</div>
 
@@ -16,11 +16,11 @@ undefined
 
 *   <span class="iNqyIf" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);"><strong class="rQesXe MPyX" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: bold; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Required Addon:</strong> <strong>NeatPlates</strong><span class="" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-sfc-inited="2" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);"></span></span>
 
-undefined
+
 
 ***
 
-undefined
+
 
 <div class="otQkpb" style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" role="heading" aria-level="3" data-animation-nesting="" data-sfc-cp="" data-wiz-attrbind="aria-level=CFp5hf_24/fLk2Md" data-sfc-root="ep" data-complete="true" data-processed="true" data-sae="" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">✨ Key Features</div>
 
@@ -28,11 +28,11 @@ undefined
 *   <span class="iNqyIf" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);"><strong class="rQesXe MPyX" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: bold; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Real-time Updates:</strong> Blazing fast performance utilizing native WoW API events (<code class="KDcb0c" dir="ltr" style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 1px solid rgb(44, 46, 53);" data-sfc-root="ep" data-complete="true" data-sae="" data-copy-service-computed-style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 1px solid rgb(44, 46, 53);">UNIT_TARGET</code>, <code class="KDcb0c" dir="ltr" style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 1px solid rgb(44, 46, 53);" data-sfc-root="ep" data-complete="true" data-sae="" data-copy-service-computed-style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 1px solid rgb(44, 46, 53);">PLAYER_TARGET_CHANGED</code>) to ensure names update instantly.</span>
 *   <span class="iNqyIf" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);"><strong class="rQesXe MPyX" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: bold; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Smart Visibility:</strong> Hides automatically when the enemy has no target or when the target is irrelevant.</span>
 
-undefined
+
 
 ***
 
-undefined
+
 
 <div class="otQkpb" style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" role="heading" aria-level="3" data-animation-nesting="" data-sfc-cp="" data-wiz-attrbind="aria-level=CFp5hf_2p/fLk2Md" data-sfc-root="ep" data-complete="true" data-processed="true" data-sae="" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">⚙️ Configuration Options</div>
 
@@ -46,11 +46,11 @@ undefined
     *   <span class="iNqyIf" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Custom static color option for NPCs.</span>
 *   <span class="iNqyIf" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);"><strong class="rQesXe MPyX" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: bold; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Threat / Aggro Highlights:</strong> Optionally highlight the target text if the enemy is targeting <em class="zhvwWe" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">You</em> or your <em class="zhvwWe" style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" data-sfc-cp="" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">Current Tank</em>.</span>
 
-undefined
+
 
 ***
 
-undefined
+
 
 <div class="otQkpb" style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);" role="heading" aria-level="3" data-animation-nesting="" data-sfc-cp="" data-wiz-attrbind="aria-level=CFp5hf_46/fLk2Md" data-sfc-root="ep" data-complete="true" data-processed="true" data-sae="" data-copy-service-computed-style="font-family: Google Sans, sans-serif; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);">🚀 Installation &amp; Setup</div>
 
